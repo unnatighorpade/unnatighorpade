@@ -1,6 +1,6 @@
 ### Hola 👋
 
-## I'm Unnati, a Data Science Enthusiast ⚡
+## I'm Unnati, UX Enthusiast ⚡
 
 <!--
 **unnatighorpade/unnatighorpade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
